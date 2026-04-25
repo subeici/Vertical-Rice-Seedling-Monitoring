@@ -1,0 +1,10 @@
+# Official Implementation for Paper:
+# End-Edge-Cloud Collaborative Group Phenotype Recognition and Diagnosis
+# Identification Tag Dataset Configuration
+
+train: 01/train 
+val: 01/valid 
+test: 01/test 
+
+nc: 1                # Number of classes 
+names: ['Blue']      # List of class names (Blue identification tags)
