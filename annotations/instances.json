@@ -1,0 +1,7532 @@
+{
+  "info": {
+    "description": "Tray Multi-Task Dataset - test",
+    "version": "1.0",
+    "year": 2025,
+    "date_created": "2025-09-03 14:01:21"
+  },
+  "licenses": [],
+  "categories": [
+    {
+      "id": 0,
+      "name": "tray",
+      "supercategory": "object"
+    }
+  ],
+  "images": [
+    {
+      "id": 105,
+      "file_name": "240413-0148-2_aug0_original.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 290,
+      "file_name": "Image_20240427081153373_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 22,
+      "file_name": "Image_20240428082414369_aug2_horizontal_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 29,
+      "file_name": "4K_20240425.MP4_20250829_161414.174_aug1_vertical_flip_scale.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 128,
+      "file_name": "Image_20240427082633230_aug4_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 333,
+      "file_name": "output_00000129(1)_aug4_horizontal_flip_vertical_flip_translate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 394,
+      "file_name": "Image_20240427082656330_aug2_rotate_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 254,
+      "file_name": "Image_20240427082611331_aug2_horizontal_flip_vertical_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 355,
+      "file_name": "output_00000067_aug3_vertical_flip_scale.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 399,
+      "file_name": "output_00000069_aug3_horizontal_flip_translate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 8,
+      "file_name": "4K_20240425.MP4_20250829_161401.404_aug2_vertical_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 298,
+      "file_name": "output_00000395_aug1_vertical_flip_scale_translate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 54,
+      "file_name": "Image_20240427082745170_aug4_rotate_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 64,
+      "file_name": "output_00001233_aug1_rotate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 244,
+      "file_name": "Image_20240427081935367_aug1_horizontal_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 40,
+      "file_name": "Image_20240427082721354_aug1_horizontal_flip_vertical_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 186,
+      "file_name": "Image_20240427082017362_aug1_horizontal_flip_vertical_flip_rotate_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 315,
+      "file_name": "output_00001166_aug1_horizontal_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 275,
+      "file_name": "240413-0014-2_aug3_rotate_scale.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 349,
+      "file_name": "Image_20240428082003380_aug4_horizontal_flip_vertical_flip_rotate_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 236,
+      "file_name": "output_00000096_aug4_horizontal_flip_rotate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 277,
+      "file_name": "Image_20240427081344351_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 362,
+      "file_name": "Image_20240427082034748_aug3_horizontal_flip_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 372,
+      "file_name": "output_00000096_aug1_translate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 396,
+      "file_name": "4K_20240424.MOV_20250829_161251.645_aug0_original.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 159,
+      "file_name": "Image_20240427082047354_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 179,
+      "file_name": "Image_20240427082206366_aug2_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 119,
+      "file_name": "4K_20240425.MP4_20250829_161415.382_aug3_horizontal_flip_vertical_flip_scale.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 55,
+      "file_name": "Image_20240427082234712_aug2_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 23,
+      "file_name": "Image_20240427081025364_aug1_horizontal_flip_vertical_flip_scale_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 278,
+      "file_name": "240413-0050-2_aug2_vertical_flip_rotate_translate.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 170,
+      "file_name": "output_00000949_aug4_horizontal_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 93,
+      "file_name": "output_00001195_aug0_original.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 346,
+      "file_name": "Image_20240427081226702_aug1_vertical_flip_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 195,
+      "file_name": "4K_20240424.MOV_20250829_161239.620_aug1_vertical_flip_rotate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 382,
+      "file_name": "Image_20240427082705365_aug3_vertical_flip_rotate_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 5,
+      "file_name": "Image_20240427082402716_aug3_horizontal_flip_vertical_flip_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 132,
+      "file_name": "4K_20240425.MP4_20250829_161430.035_aug0_original.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 112,
+      "file_name": "Image_20240427081153216_aug4_horizontal_flip_vertical_flip_rotate_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 192,
+      "file_name": "4K_20240425.MP4_20250829_161409.560_aug2_vertical_flip_rotate_scale.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 220,
+      "file_name": "Image_20240423084715132_aug3_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 26,
+      "file_name": "Image_20240427082918353_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 78,
+      "file_name": "240413-0145-2_aug2_horizontal_flip.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 332,
+      "file_name": "Image_20240427081942344_aug4_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 32,
+      "file_name": "Image_20240428082138428_aug4_horizontal_flip_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 429,
+      "file_name": "4K_20240424.MOV_20250829_161319.903_aug4_vertical_flip_rotate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 311,
+      "file_name": "Image_20240423084657855_aug3_vertical_flip_rotate_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 303,
+      "file_name": "Image_20240427081518365_aug1_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 217,
+      "file_name": "Image_20240427082902333_aug3_horizontal_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 122,
+      "file_name": "4K_20240425.MP4_20250829_161423.215_aug1_horizontal_flip_vertical_flip_scale.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 342,
+      "file_name": "4K_20240424.MOV_20250829_161304.416_aug4_horizontal_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 17,
+      "file_name": "4K_20240424.MOV_20250829_161317.669_aug2_horizontal_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 289,
+      "file_name": "Image_20240427081049351_aug2_vertical_flip_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 15,
+      "file_name": "output_00000069_aug1_rotate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 232,
+      "file_name": "4K_20240424.MOV_20250829_161316.037_aug2_horizontal_flip_rotate_translate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 334,
+      "file_name": "Image_20240427082833362_aug1_horizontal_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 187,
+      "file_name": "Image_20240427082250704_aug1_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 6,
+      "file_name": "240413-0026-2_aug1_horizontal_flip_rotate.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 419,
+      "file_name": "Image_20240427081042728_aug3_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 403,
+      "file_name": "Image_20240427082638366_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 337,
+      "file_name": "Image_20240428081355429_aug3_horizontal_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 360,
+      "file_name": "Image_20240427081150373_aug3_horizontal_flip_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 102,
+      "file_name": "output_00000872_aug3_horizontal_flip_rotate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 296,
+      "file_name": "4K_20240425.MP4_20250829_161415.921_aug0_original.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 237,
+      "file_name": "output_00001011_aug4_scale.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 416,
+      "file_name": "Image_20240428082839363_aug4_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 182,
+      "file_name": "Image_20240427082030377_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 251,
+      "file_name": "output_00000125_aug0_original.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 379,
+      "file_name": "Image_20240427082618727_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 42,
+      "file_name": "240413-0027-2_aug1_rotate.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 183,
+      "file_name": "Image_20240427081514350_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 123,
+      "file_name": "Image_20240428081513407_aug3_horizontal_flip_rotate_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 110,
+      "file_name": "output_00001182_aug3_rotate_translate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 412,
+      "file_name": "Image_20240427082449261_aug2_horizontal_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 274,
+      "file_name": "4K_20240424.MOV_20250829_161242.339_aug1_rotate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 140,
+      "file_name": "4K_20240424.MOV_20250829_161239.135_aug0_original.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 39,
+      "file_name": "output_00001196_aug0_original.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 106,
+      "file_name": "Image_20240427082846369_aug3_horizontal_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 301,
+      "file_name": "Image_20240427081522741_aug3_vertical_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 317,
+      "file_name": "4K_20240425.MP4_20250829_161349.847_aug1_vertical_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 166,
+      "file_name": "Image_20240428082540425(1)_aug1_rotate_scale_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 353,
+      "file_name": "Image_20240427082026728_aug4_horizontal_flip_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 299,
+      "file_name": "4K_20240424.MOV_20250829_161258.988_aug1_horizontal_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 233,
+      "file_name": "Image_20240428082723431_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 171,
+      "file_name": "Image_20240427081158356_aug1_horizontal_flip_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 41,
+      "file_name": "4K_20240424.MOV_20250829_161303.339_aug4_vertical_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 152,
+      "file_name": "Image_20240427082345245_aug3_horizontal_flip_rotate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 426,
+      "file_name": "240413-0079-2_aug0_original.jpg",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 202,
+      "file_name": "output_00000227_aug0_original.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 287,
+      "file_name": "Image_20240427083002710_aug3_horizontal_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 49,
+      "file_name": "Image_20240428082155392_aug1_rotate_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 196,
+      "file_name": "4K_20240424.MOV_20250829_161240.206_aug1_rotate_translate.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 327,
+      "file_name": "4K_20240425.MP4_20250829_161359.096_aug3_horizontal_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 67,
+      "file_name": "Image_20240423084810739_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 359,
+      "file_name": "Image_20240427082246345_aug2_horizontal_flip.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 211,
+      "file_name": "Image_20240423084627108_aug3_scale.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 368,
+      "file_name": "Image_20240427082326355_aug1_horizontal_flip_translate.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 264,
+      "file_name": "Image_20240427081201373_aug0_original.jpg",
+      "width": 1624,
+      "height": 1240
+    },
+    {
+      "id": 103,
+      "file_name": "output_00000746_aug3_horizontal_flip_vertical_flip.jpg",
+      "width": 3840,
+      "height": 2160
+    },
+    {
+      "id": 234,
+      "file_name": "4K_20240424.MOV_20250829_161246.051_aug2_vertical_flip_scale.jpg",
+      "width": 3840,
+      "height": 2160
+    }
+  ],
+  "annotations": [
+    {
+      "id": 15,
+      "image_id": 5,
+      "category_id": 0,
+      "bbox": [
+        0,
+        271.2633056640625,
+        1619.4074074074074,
+        723.7366943359375
+      ],
+      "area": 1172024.563820168,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 24,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        2799.0625,
+        1404.3717041015625,
+        888.57421875,
+        295.2476806640625
+      ],
+      "area": 262349.4771838188,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 25,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        1919.136474609375,
+        1404.7900390625,
+        880.83056640625,
+        294.8118896484375
+      ],
+      "area": 259679.32374233007,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 26,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        2652.625,
+        1139.9210205078125,
+        737.61669921875,
+        233.427978515625
+      ],
+      "area": 172180.3750180006,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 27,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        1031.989013671875,
+        1405.8760986328125,
+        890.1500244140625,
+        298.00341796875
+      ],
+      "area": 265267.7497803569,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 28,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        125.431640625,
+        1435.2333984375,
+        887.9557495117188,
+        283.4359130859375
+      ],
+      "area": 251678.548642762,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 29,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        1927.376708984375,
+        1148.468017578125,
+        716.7509765625,
+        226.7720947265625
+      ],
+      "area": 162539.12035238743,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 30,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        472.5535583496094,
+        1165.57470703125,
+        733.0973205566406,
+        224.0699462890625
+      ],
+      "area": 164265.0772417821,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=unk|disease=no"
+    },
+    {
+      "id": 31,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        257.2847900390625,
+        1882.760498046875,
+        856.336669921875,
+        277.239501953125
+      ],
+      "area": 237410.35187333822,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 32,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        1125.4671630859375,
+        1867.5098876953125,
+        842.0018310546875,
+        292.4901123046875
+      ],
+      "area": 246277.21012593806,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 33,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        1214.86962890625,
+        1153.0665283203125,
+        706.1671142578125,
+        224.7462158203125
+      ],
+      "area": 158708.3866661936,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 34,
+      "image_id": 8,
+      "category_id": 0,
+      "bbox": [
+        1972.830078125,
+        1853.6982421875,
+        841.561767578125,
+        306.3017578125
+      ],
+      "area": 257771.84871697426,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 49,
+      "image_id": 15,
+      "category_id": 0,
+      "bbox": [
+        910.6779661016949,
+        1710.5084745762713,
+        1006.7796610169491,
+        345.7627118644066
+      ],
+      "area": 348106.8658431483,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 50,
+      "image_id": 15,
+      "category_id": 0,
+      "bbox": [
+        1922.542372881356,
+        1683.3898305084747,
+        954.2372881355934,
+        361.0169491525421
+      ],
+      "area": 344495.8345303072,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 51,
+      "image_id": 15,
+      "category_id": 0,
+      "bbox": [
+        2885.2542372881358,
+        1685.084745762712,
+        928.8135593220336,
+        349.1525423728815
+      ],
+      "area": 324297.61562769325,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 52,
+      "image_id": 15,
+      "category_id": 0,
+      "bbox": [
+        1119.1525423728813,
+        1352.8813559322034,
+        781.35593220339,
+        272.8813559322034
+      ],
+      "area": 213217.46624533186,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 53,
+      "image_id": 15,
+      "category_id": 0,
+      "bbox": [
+        1905.593220338983,
+        1356.2711864406779,
+        757.6271186440681,
+        279.66101694915255
+      ],
+      "area": 211878.77046825635,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 54,
+      "image_id": 15,
+      "category_id": 0,
+      "bbox": [
+        2666.6101694915255,
+        1357.9661016949153,
+        752.5423728813557,
+        269.4915254237287
+      ],
+      "area": 202803.792013789,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 57,
+      "image_id": 17,
+      "category_id": 0,
+      "bbox": [
+        291.62841796875,
+        1544.2730712890625,
+        808.273681640625,
+        308.93408203125
+      ],
+      "area": 249703.2878676653,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=unk|disease=yes"
+    },
+    {
+      "id": 58,
+      "image_id": 17,
+      "category_id": 0,
+      "bbox": [
+        2739.394287109375,
+        1633.697021484375,
+        774.125244140625,
+        310.235595703125
+      ],
+      "area": 240161.20626479387,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 59,
+      "image_id": 17,
+      "category_id": 0,
+      "bbox": [
+        1106.6983642578125,
+        1564.88427734375,
+        801.952392578125,
+        308.6942138671875
+      ],
+      "area": 247558.06338581443,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 60,
+      "image_id": 17,
+      "category_id": 0,
+      "bbox": [
+        1264.42578125,
+        1246.979248046875,
+        637.0220947265625,
+        207.988525390625
+      ],
+      "area": 132493.28612342477,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 61,
+      "image_id": 17,
+      "category_id": 0,
+      "bbox": [
+        2585.651611328125,
+        1301.8267822265625,
+        680.983154296875,
+        208.7940673828125
+      ],
+      "area": 142185.24260482192,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 62,
+      "image_id": 17,
+      "category_id": 0,
+      "bbox": [
+        1931.1390380859375,
+        1276.6605224609375,
+        644.5706787109375,
+        209.7593994140625
+      ],
+      "area": 135204.7584463209,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 63,
+      "image_id": 17,
+      "category_id": 0,
+      "bbox": [
+        606.4723510742188,
+        1223.42041015625,
+        658.7465209960938,
+        214.3421630859375
+      ],
+      "area": 141197.15423563868,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 76,
+      "image_id": 22,
+      "category_id": 0,
+      "bbox": [
+        274.27272727272725,
+        330.9090909090909,
+        1348.7272727272727,
+        647.2807594012412
+      ],
+      "area": 873005.2133160741,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 77,
+      "image_id": 23,
+      "category_id": 0,
+      "bbox": [
+        138.9473684210525,
+        229.06659256784542,
+        1344.1052631578948,
+        587.2491969058387
+      ],
+      "area": 789324.7363463847,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": -1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=unk|disease=yes"
+    },
+    {
+      "id": 81,
+      "image_id": 26,
+      "category_id": 0,
+      "bbox": [
+        0,
+        501.1129455566406,
+        1608.8928222656248,
+        738.8870544433591
+      ],
+      "area": 1188790.0783589105,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 99,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        34.938629150390625,
+        1535.51806640625,
+        921.4315490722656,
+        310.56005859375
+      ],
+      "area": 286159.83587001264,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 100,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        966.4736938476562,
+        1518.7664794921875,
+        902.3004760742188,
+        311.419189453125
+      ],
+      "area": 280993.682902202,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 101,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        2832.64892578125,
+        1500.2259521484375,
+        891.287841796875,
+        332.972900390625
+      ],
+      "area": 296774.697766006,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=unk|disease=unk"
+    },
+    {
+      "id": 102,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        1928.562744140625,
+        1508.6070556640625,
+        893.35107421875,
+        321.65625
+      ],
+      "area": 287351.9564666748,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=unk|disease=unk"
+    },
+    {
+      "id": 103,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        1111.685302734375,
+        1196.1405029296875,
+        762.89697265625,
+        231.8895263671875
+      ],
+      "area": 176907.817656219,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 104,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        324.69049072265625,
+        1208.3822021484375,
+        775.7186889648438,
+        227.0767822265625
+      ],
+      "area": 176147.7038031444,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 105,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        1900.4033203125,
+        1192.9974365234375,
+        748.01904296875,
+        229.5142822265625
+      ],
+      "area": 171681.05373877287,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 106,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        2664.160400390625,
+        1187.2080078125,
+        781.0029296875,
+        231.92138671875
+      ],
+      "area": 181131.2824845314,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 107,
+      "image_id": 29,
+      "category_id": 0,
+      "bbox": [
+        1228.766357421875,
+        1009.7891845703125,
+        623.7454833984375,
+        168.7401123046875
+      ],
+      "area": 105250.88291819394,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 118,
+      "image_id": 32,
+      "category_id": 0,
+      "bbox": [
+        270.6363636363636,
+        380.9090909090909,
+        1352.3636363636365,
+        687.9336412250851
+      ],
+      "area": 930336.4406240333,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=yes|disease=no"
+    },
+    {
+      "id": 136,
+      "image_id": 39,
+      "category_id": 0,
+      "bbox": [
+        2039.298245614035,
+        1004.561403508772,
+        635.0877192982455,
+        180.7017543859647
+      ],
+      "area": 114761.46506617405,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 137,
+      "image_id": 39,
+      "category_id": 0,
+      "bbox": [
+        2690.175438596491,
+        1002.8070175438595,
+        598.2456140350878,
+        196.49122807017557
+      ],
+      "area": 117550.01538935066,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 138,
+      "image_id": 39,
+      "category_id": 0,
+      "bbox": [
+        2114.736842105263,
+        1239.6491228070174,
+        771.9298245614036,
+        270.1754385964912
+      ],
+      "area": 208556.47891658972,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 139,
+      "image_id": 39,
+      "category_id": 0,
+      "bbox": [
+        2891.929824561403,
+        1227.3684210526314,
+        796.4912280701756,
+        284.21052631578937
+      ],
+      "area": 226371.19113573403,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 140,
+      "image_id": 39,
+      "category_id": 0,
+      "bbox": [
+        1844.561403508772,
+        1683.5087719298244,
+        731.5789473684208,
+        312.28070175438575
+      ],
+      "area": 228457.98707294528,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 141,
+      "image_id": 39,
+      "category_id": 0,
+      "bbox": [
+        2604.210526315789,
+        1692.2807017543857,
+        785.9649122807018,
+        291.22807017543846
+      ],
+      "area": 228895.04462911657,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 142,
+      "image_id": 40,
+      "category_id": 0,
+      "bbox": [
+        242.55555555555554,
+        151.4814814814815,
+        1332.4074074074074,
+        646.2962962962963
+      ],
+      "area": 861129.9725651578,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 143,
+      "image_id": 41,
+      "category_id": 0,
+      "bbox": [
+        1913.5162353515625,
+        1537.7802734375,
+        770.5531005859375,
+        350.4752197265625
+      ],
+      "area": 270059.76723884046,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 144,
+      "image_id": 41,
+      "category_id": 0,
+      "bbox": [
+        1295.9832763671875,
+        1217.5220947265625,
+        638.203125,
+        235.6051025390625
+      ],
+      "area": 150363.91270637512,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 145,
+      "image_id": 41,
+      "category_id": 0,
+      "bbox": [
+        1120.5003662109375,
+        1508.6876220703125,
+        785.998291015625,
+        352.103759765625
+      ],
+      "area": 276752.95343595743,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 146,
+      "image_id": 41,
+      "category_id": 0,
+      "bbox": [
+        305.5908508300781,
+        1480.766357421875,
+        803.7144470214844,
+        338.236083984375
+      ],
+      "area": 271845.2272022143,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 147,
+      "image_id": 41,
+      "category_id": 0,
+      "bbox": [
+        2686.52294921875,
+        1579.223876953125,
+        769.644287109375,
+        336.626220703125
+      ],
+      "area": 259082.44765537977,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 148,
+      "image_id": 41,
+      "category_id": 0,
+      "bbox": [
+        1936.4267578125,
+        1232.1544189453125,
+        625.4326171875,
+        240.238037109375
+      ],
+      "area": 150252.70429730415,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 149,
+      "image_id": 41,
+      "category_id": 0,
+      "bbox": [
+        636.509765625,
+        1203.3048095703125,
+        662.2999267578125,
+        231.541259765625
+      ],
+      "area": 153349.75938418508,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 150,
+      "image_id": 41,
+      "category_id": 0,
+      "bbox": [
+        2565.490966796875,
+        1282.2891845703125,
+        639.4150390625,
+        221.2730712890625
+      ],
+      "area": 141485.32952177525,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 175,
+      "image_id": 49,
+      "category_id": 0,
+      "bbox": [
+        1.5454545454545894,
+        331.81818181818176,
+        1621.4545454545455,
+        748.5023763777936
+      ],
+      "area": 1213662.5804613023,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 200,
+      "image_id": 54,
+      "category_id": 0,
+      "bbox": [
+        326.8092346191406,
+        0,
+        1294.6567077636719,
+        559.142333984375
+      ],
+      "area": 723897.3732875064,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 201,
+      "image_id": 54,
+      "category_id": 0,
+      "bbox": [
+        174.03703703703707,
+        646.8518518518518,
+        1448.962962962963,
+        592.1481481481482
+      ],
+      "area": 858000.7352537723,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 202,
+      "image_id": 55,
+      "category_id": 0,
+      "bbox": [
+        0,
+        226.3822021484375,
+        1623,
+        680.4599031147203
+      ],
+      "area": 1104386.422755191,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 216,
+      "image_id": 64,
+      "category_id": 0,
+      "bbox": [
+        442.80701754385973,
+        1139.6491228070174,
+        766.6666666666667,
+        249.1228070175439
+      ],
+      "area": 190994.15204678368,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 217,
+      "image_id": 64,
+      "category_id": 0,
+      "bbox": [
+        1256.842105263158,
+        1167.719298245614,
+        750.8771929824561,
+        219.29824561403507
+      ],
+      "area": 164666.05109264387,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 218,
+      "image_id": 64,
+      "category_id": 0,
+      "bbox": [
+        2025.2631578947369,
+        1172.9824561403507,
+        770.1754385964907,
+        224.56140350877195
+      ],
+      "area": 172951.67743921196,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 219,
+      "image_id": 64,
+      "category_id": 0,
+      "bbox": [
+        2814.736842105263,
+        1174.7368421052631,
+        763.1578947368421,
+        203.50877192982443
+      ],
+      "area": 155309.32594644497,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 220,
+      "image_id": 64,
+      "category_id": 0,
+      "bbox": [
+        369.12280701754395,
+        1565.9649122807016,
+        764.9122807017545,
+        347.3684210526317
+      ],
+      "area": 265706.37119113584,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 221,
+      "image_id": 64,
+      "category_id": 0,
+      "bbox": [
+        1248.0701754385966,
+        1594.0350877192982,
+        819.2982456140346,
+        317.5438596491226
+      ],
+      "area": 260163.1271160354,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 222,
+      "image_id": 64,
+      "category_id": 0,
+      "bbox": [
+        2088.4210526315787,
+        1601.0526315789473,
+        808.7719298245615,
+        314.0350877192982
+      ],
+      "area": 253982.76392736228,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 223,
+      "image_id": 64,
+      "category_id": 0,
+      "bbox": [
+        2911.2280701754385,
+        1590.5263157894735,
+        749.1228070175434,
+        310.52631578947376
+      ],
+      "area": 232622.3453370267,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 233,
+      "image_id": 67,
+      "category_id": 0,
+      "bbox": [
+        15.973210334777832,
+        26.35343360900879,
+        1576.5531054546957,
+        705.7518295488859
+      ],
+      "area": 1112655.238555629,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 256,
+      "image_id": 78,
+      "category_id": 0,
+      "bbox": [
+        73.46153846153854,
+        426.0576923076923,
+        909.6153846153845,
+        311.5384615384615
+      ],
+      "area": 283380.1775147928,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 257,
+      "image_id": 78,
+      "category_id": 0,
+      "bbox": [
+        969.6153846153846,
+        412.59615384615387,
+        920.0608849158654,
+        310.5871347280649
+      ],
+      "area": 285759.07402138645,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 286,
+      "image_id": 93,
+      "category_id": 0,
+      "bbox": [
+        2051.578947368421,
+        1025.6140350877192,
+        642.1052631578946,
+        192.9824561403509
+      ],
+      "area": 123915.05078485687,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 287,
+      "image_id": 93,
+      "category_id": 0,
+      "bbox": [
+        2698.9473684210525,
+        1023.859649122807,
+        636.8421052631579,
+        205.26315789473665
+      ],
+      "area": 130720.22160664808,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 288,
+      "image_id": 93,
+      "category_id": 0,
+      "bbox": [
+        2109.4736842105262,
+        1288.7719298245613,
+        826.3157894736842,
+        301.7543859649122
+      ],
+      "area": 249344.41366574322,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 289,
+      "image_id": 93,
+      "category_id": 0,
+      "bbox": [
+        2955.0877192982452,
+        1295.7894736842104,
+        771.9298245614036,
+        268.42105263157896
+      ],
+      "area": 207202.21606648204,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 290,
+      "image_id": 93,
+      "category_id": 0,
+      "bbox": [
+        1849.8245614035088,
+        1692.2807017543857,
+        743.8596491228066,
+        326.31578947368416
+      ],
+      "area": 242733.14866112632,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 291,
+      "image_id": 93,
+      "category_id": 0,
+      "bbox": [
+        2609.4736842105262,
+        1715.0877192982455,
+        707.0175438596489,
+        273.68421052631584
+      ],
+      "area": 193499.53831948288,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 317,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        644.561403508772,
+        1050.1754385964912,
+        714.0350877192984,
+        214.0350877192982
+      ],
+      "area": 152828.56263465682,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 318,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        1393.6842105263158,
+        1050.1754385964912,
+        635.0877192982455,
+        228.07017543859638
+      ],
+      "area": 144844.56755924888,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 319,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        2051.578947368421,
+        1041.4035087719296,
+        678.9473684210525,
+        254.38596491228077
+      ],
+      "area": 172714.68144044324,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 320,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        2756.8421052631575,
+        1051.9298245614034,
+        735.0877192982457,
+        261.40350877192986
+      ],
+      "area": 192154.5090797169,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 321,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        358.5964912280703,
+        1365.9649122807016,
+        694.7368421052631,
+        329.8245614035088
+      ],
+      "area": 229141.27423822717,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 322,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        323.50877192982466,
+        1353.6842105263156,
+        782.4561403508771,
+        347.3684210526317
+      ],
+      "area": 271800.55401662056,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 323,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        1128.7719298245615,
+        1364.2105263157894,
+        873.6842105263156,
+        361.40350877192986
+      ],
+      "area": 315752.5392428439,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 324,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        2055.0877192982452,
+        1379.9999999999998,
+        805.2631578947371,
+        364.9122807017545
+      ],
+      "area": 293850.4155124656,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 325,
+      "image_id": 102,
+      "category_id": 0,
+      "bbox": [
+        2884.9122807017543,
+        1372.9824561403507,
+        821.0526315789471,
+        366.66666666666674
+      ],
+      "area": 301052.6315789473,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 326,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        314.06779661016947,
+        1563.050847457627,
+        877.9661016949152,
+        415.25423728813576
+      ],
+      "area": 364579.1439241599,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 327,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        1193.728813559322,
+        1556.2711864406779,
+        840.6779661016951,
+        420.33898305084745
+      ],
+      "area": 353369.72134444135,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 328,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        2037.7966101694915,
+        1556.2711864406779,
+        811.8644067796613,
+        410.16949152542384
+      ],
+      "area": 333002.01091640355,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 329,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        2854.7457627118642,
+        1557.9661016949153,
+        769.491525423729,
+        410.1694915254236
+      ],
+      "area": 315621.9477161735,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 330,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        451.3559322033898,
+        1105.4237288135594,
+        827.1186440677966,
+        333.89830508474574
+      ],
+      "area": 276173.51335823035,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 331,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        1278.4745762711864,
+        1102.0338983050847,
+        786.4406779661017,
+        340.6779661016949
+      ],
+      "area": 267923.01062912954,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 332,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        2068.3050847457625,
+        1102.0338983050847,
+        772.8813559322034,
+        345.7627118644068
+      ],
+      "area": 267233.5535765585,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 333,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        2844.576271186441,
+        1096.9491525423728,
+        759.3220338983051,
+        355.93220338983065
+      ],
+      "area": 270267.16460787144,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 334,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        1424.2372881355932,
+        902.0338983050847,
+        605.0847457627119,
+        193.22033898305085
+      ],
+      "area": 116914.67968974434,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 335,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        2031.0169491525426,
+        896.9491525423729,
+        586.4406779661017,
+        196.61016949152543
+      ],
+      "area": 115300.20109164034,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 336,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        2622.5423728813557,
+        893.5593220338983,
+        659.3220338983056,
+        194.91525423728808
+      ],
+      "area": 128511.9218615341,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 337,
+      "image_id": 103,
+      "category_id": 0,
+      "bbox": [
+        778.4745762711864,
+        913.8983050847457,
+        638.9830508474577,
+        179.66101694915255
+      ],
+      "area": 114800.3447285263,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 339,
+      "image_id": 105,
+      "category_id": 0,
+      "bbox": [
+        6.153846153846242,
+        460.61420722135006,
+        946.1538461538461,
+        321.1538461538462
+      ],
+      "area": 303860.94674556213,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 340,
+      "image_id": 105,
+      "category_id": 0,
+      "bbox": [
+        956.1538461538462,
+        456.8269230769231,
+        913.4615384615386,
+        314.4230769230769
+      ],
+      "area": 287213.3875739645,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 341,
+      "image_id": 105,
+      "category_id": 0,
+      "bbox": [
+        210.00000000000009,
+        223.17307692307696,
+        766.3461538461537,
+        202.88461538461536
+      ],
+      "area": 155479.84467455617,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 342,
+      "image_id": 105,
+      "category_id": 0,
+      "bbox": [
+        965.7692307692308,
+        220.28846153846155,
+        747.1153846153846,
+        213.46153846153845
+      ],
+      "area": 159480.39940828402,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 343,
+      "image_id": 106,
+      "category_id": 0,
+      "bbox": [
+        90.70370370370372,
+        94.07407407407409,
+        1427.7777777777778,
+        592.5925925925925
+      ],
+      "area": 846090.5349794237,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 346,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        830.5263157894738,
+        894.0350877192982,
+        582.4561403508771,
+        166.66666666666674
+      ],
+      "area": 97076.02339181291,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 347,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        1427.0175438596493,
+        901.0526315789473,
+        584.2105263157894,
+        175.43859649122805
+      ],
+      "area": 102493.07479224374,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 348,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        2032.2807017543862,
+        899.2982456140351,
+        559.649122807017,
+        184.21052631578937
+      ],
+      "area": 103093.25946445043,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 349,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        2600.7017543859647,
+        892.2807017543859,
+        622.8070175438597,
+        198.24561403508767
+      ],
+      "area": 123468.75961834409,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 350,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        605.9649122807018,
+        1109.8245614035086,
+        764.9122807017545,
+        214.03508771929842
+      ],
+      "area": 163718.06709756865,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 351,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        1384.9122807017545,
+        1122.1052631578946,
+        707.0175438596486,
+        208.77192982456154
+      ],
+      "area": 147605.41705140044,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 352,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        2105.9649122807014,
+        1122.1052631578946,
+        726.3157894736842,
+        233.33333333333348
+      ],
+      "area": 169473.6842105264,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 353,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        2842.8070175438593,
+        1125.6140350877192,
+        705.2631578947367,
+        214.0350877192982
+      ],
+      "area": 150951.0618651892,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 354,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        2083.157894736842,
+        1534.3859649122805,
+        819.2982456140348,
+        307.0175438596491
+      ],
+      "area": 251538.9350569405,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 355,
+      "image_id": 110,
+      "category_id": 0,
+      "bbox": [
+        2912.9824561403507,
+        1522.1052631578946,
+        794.7368421052629,
+        324.56140350877195
+      ],
+      "area": 257940.90489381342,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 357,
+      "image_id": 112,
+      "category_id": 0,
+      "bbox": [
+        186.07229614257812,
+        95.39398956298828,
+        1423.2961249100533,
+        747.23758938438
+      ],
+      "area": 1063540.3653579177,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=one|yellow=no|disease=unk"
+    },
+    {
+      "id": 372,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        2803.761474609375,
+        1581.207275390625,
+        901.552001953125,
+        371.452880859375
+      ],
+      "area": 334884.08837002516,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 373,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        13.4871826171875,
+        1605.1358642578125,
+        915.211669921875,
+        372.1395263671875
+      ],
+      "area": 340586.4373704493,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 374,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        1904.173583984375,
+        1218.73193359375,
+        778.810791015625,
+        238.1240234375
+      ],
+      "area": 185453.5590531826,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 375,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        2698.683349609375,
+        1214.409423828125,
+        798.746337890625,
+        241.3978271484375
+      ],
+      "area": 192815.63040956855,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 376,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        938.843994140625,
+        1585.4666748046875,
+        929.0408935546875,
+        377.9154052734375
+      ],
+      "area": 351098.86580331624,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 377,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        1089.7296142578125,
+        1227.719970703125,
+        777.92431640625,
+        237.13671875
+      ],
+      "area": 184474.41982841492,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 378,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        1877.5242919921875,
+        1596.638671875,
+        926.7413330078125,
+        363.421875
+      ],
+      "area": 336798.0728816986,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 379,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        256.8029479980469,
+        1241.531005859375,
+        817.3799133300781,
+        233.55615234375
+      ],
+      "area": 190904.1075604409,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 380,
+      "image_id": 119,
+      "category_id": 0,
+      "bbox": [
+        544.330078125,
+        1055.66943359375,
+        635.8399658203125,
+        175.505859375
+      ],
+      "area": 111593.63962626457,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 385,
+      "image_id": 122,
+      "category_id": 0,
+      "bbox": [
+        2773.38427734375,
+        1358.7392578125,
+        883.563720703125,
+        337.056884765625
+      ],
+      "area": 297811.2351921201,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 386,
+      "image_id": 122,
+      "category_id": 0,
+      "bbox": [
+        409.438232421875,
+        1128.985595703125,
+        744.9873046875,
+        231.432861328125
+      ],
+      "area": 172414.5435769558,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 387,
+      "image_id": 122,
+      "category_id": 0,
+      "bbox": [
+        1902.57470703125,
+        1360.2353515625,
+        865.7303777145125,
+        335.0188857256355
+      ],
+      "area": 290036.02648074954,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 388,
+      "image_id": 122,
+      "category_id": 0,
+      "bbox": [
+        95.98663330078125,
+        1381.8123779296875,
+        907.762939453125,
+        326.71435546875
+      ],
+      "area": 296579.18368184566,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 389,
+      "image_id": 122,
+      "category_id": 0,
+      "bbox": [
+        1010.4457397460938,
+        1375.779052734375,
+        885.2885131835938,
+        326.5433349609375
+      ],
+      "area": 289085.0634975806,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 390,
+      "image_id": 122,
+      "category_id": 0,
+      "bbox": [
+        1900.540283203125,
+        1117.2529296875,
+        697.994384765625,
+        234.861328125
+      ],
+      "area": 163931.88822984695,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 391,
+      "image_id": 122,
+      "category_id": 0,
+      "bbox": [
+        1159.9896240234375,
+        1122.0032958984375,
+        727.474365234375,
+        242.9857177734375
+      ],
+      "area": 176765.88079825044,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 392,
+      "image_id": 122,
+      "category_id": 0,
+      "bbox": [
+        2607.009521484375,
+        1118.17529296875,
+        712.133056640625,
+        228.2962646484375
+      ],
+      "area": 162577.31676372886,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 393,
+      "image_id": 123,
+      "category_id": 0,
+      "bbox": [
+        254.12962962962962,
+        55.185185185185205,
+        1368.8703703703702,
+        658.6422037784756
+      ],
+      "area": 901595.7974277987,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 406,
+      "image_id": 128,
+      "category_id": 0,
+      "bbox": [
+        442.55555555555554,
+        10.740740740740762,
+        1180.4444444444443,
+        447.27777777777766
+      ],
+      "area": 527986.5679012344,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 407,
+      "image_id": 128,
+      "category_id": 0,
+      "bbox": [
+        202.74074074074076,
+        466.29629629629625,
+        1420.2592592592587,
+        741.7511780228062
+      ],
+      "area": 1053478.9786533534,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 421,
+      "image_id": 132,
+      "category_id": 0,
+      "bbox": [
+        1908.460693359375,
+        1528.3912353515625,
+        906.177490234375,
+        368.5576171875
+      ],
+      "area": 333978.6165497303,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 422,
+      "image_id": 132,
+      "category_id": 0,
+      "bbox": [
+        2823.66064453125,
+        1526.6436767578125,
+        888.7939453125,
+        367.9453125
+      ],
+      "area": 327027.5659561157,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 423,
+      "image_id": 132,
+      "category_id": 0,
+      "bbox": [
+        1137.86181640625,
+        1172.4833984375,
+        762.05126953125,
+        296.079345703125
+      ],
+      "area": 225627.64127504826,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 424,
+      "image_id": 132,
+      "category_id": 0,
+      "bbox": [
+        342.4660949707031,
+        1202.8524169921875,
+        782.1087341308594,
+        269.407470703125
+      ],
+      "area": 210705.93587701768,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 425,
+      "image_id": 132,
+      "category_id": 0,
+      "bbox": [
+        2675.640380859375,
+        1167.4296875,
+        762.9609375,
+        286.3018798828125
+      ],
+      "area": 218437.15068340302,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 426,
+      "image_id": 132,
+      "category_id": 0,
+      "bbox": [
+        1908.602783203125,
+        1193.3492431640625,
+        753.13037109375,
+        268.9163818359375
+      ],
+      "area": 202529.09444528818,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 427,
+      "image_id": 132,
+      "category_id": 0,
+      "bbox": [
+        994.890380859375,
+        1534.00341796875,
+        914.7972412109375,
+        368.300537109375
+      ],
+      "area": 336920.31528416276,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 428,
+      "image_id": 132,
+      "category_id": 0,
+      "bbox": [
+        49.83673095703125,
+        1561.3602294921875,
+        931.8607177734375,
+        347.86083984375
+      ],
+      "area": 324157.85190206766,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 458,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        459.2903137207031,
+        1380.9896240234375,
+        753.6199645996094,
+        275.230224609375
+      ],
+      "area": 207418.99212685972,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 459,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        2712.80908203125,
+        1460.082275390625,
+        720.051513671875,
+        272.0767822265625
+      ],
+      "area": 195909.29887720942,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 460,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        770.7789916992188,
+        1183.546875,
+        603.2006225585938,
+        183.4398193359375
+      ],
+      "area": 110651.01322547346,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 461,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        1216.6959228515625,
+        1400.4427490234375,
+        748.742431640625,
+        275.724609375
+      ],
+      "area": 206446.71448659897,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 462,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        1382.0919189453125,
+        1187.9556884765625,
+        583.6563720703125,
+        194.417724609375
+      ],
+      "area": 113473.14381167293,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 463,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        1966.9669189453125,
+        1435.286376953125,
+        738.1485595703125,
+        271.0870361328125
+      ],
+      "area": 200102.5052396208,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 464,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        1979.68798828125,
+        1210.559814453125,
+        563.839111328125,
+        183.966064453125
+      ],
+      "area": 103727.26229578257,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 465,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        397.6595744680853,
+        1795.9574468085111,
+        748.936170212766,
+        312.765957446808
+      ],
+      "area": 234241.7383431413,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 466,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        2547.9521484375,
+        1230.748291015625,
+        623.842041015625,
+        196.2235107421875
+      ],
+      "area": 122412.47543665767,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 467,
+      "image_id": 140,
+      "category_id": 0,
+      "bbox": [
+        1182.7659574468087,
+        1791.7021276595742,
+        740.4255319148936,
+        329.78723404255334
+      ],
+      "area": 244182.88818469906,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 498,
+      "image_id": 152,
+      "category_id": 0,
+      "bbox": [
+        263.85185185185185,
+        190.37037037037038,
+        1358.3333333333335,
+        711.1111111111111
+      ],
+      "area": 965925.925925926,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 525,
+      "image_id": 159,
+      "category_id": 0,
+      "bbox": [
+        0,
+        623.6842105263157,
+        1624,
+        616.3157894736843
+      ],
+      "area": 1000896.8421052633,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 526,
+      "image_id": 159,
+      "category_id": 0,
+      "bbox": [
+        0,
+        0,
+        1623,
+        562.657894736842
+      ],
+      "area": 913193.7631578945,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 555,
+      "image_id": 166,
+      "category_id": 0,
+      "bbox": [
+        197.00000000000003,
+        200.9090909090909,
+        1426,
+        667.0144020037571
+      ],
+      "area": 951162.5372573577,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 573,
+      "image_id": 170,
+      "category_id": 0,
+      "bbox": [
+        591.9298245614036,
+        1050.1754385964912,
+        731.578947368421,
+        264.9122807017543
+      ],
+      "area": 193804.2474607571,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 574,
+      "image_id": 170,
+      "category_id": 0,
+      "bbox": [
+        1337.5438596491229,
+        1057.1929824561403,
+        714.035087719298,
+        266.66666666666674
+      ],
+      "area": 190409.35672514618,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 575,
+      "image_id": 170,
+      "category_id": 0,
+      "bbox": [
+        2079.649122807017,
+        1071.2280701754385,
+        698.2456140350878,
+        270.1754385964912
+      ],
+      "area": 188648.81502000615,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 576,
+      "image_id": 170,
+      "category_id": 0,
+      "bbox": [
+        2805.9649122807014,
+        1083.5087719298244,
+        675.438596491228,
+        259.64912280701765
+      ],
+      "area": 175377.03908895052,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 577,
+      "image_id": 170,
+      "category_id": 0,
+      "bbox": [
+        451.57894736842115,
+        1451.9298245614034,
+        801.7543859649123,
+        349.1228070175439
+      ],
+      "area": 279910.7417666975,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 578,
+      "image_id": 170,
+      "category_id": 0,
+      "bbox": [
+        1284.9122807017545,
+        1465.9649122807016,
+        819.2982456140346,
+        342.1052631578948
+      ],
+      "area": 280286.24192059087,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 579,
+      "image_id": 170,
+      "category_id": 0,
+      "bbox": [
+        2123.5087719298244,
+        1479.9999999999998,
+        824.561403508772,
+        338.59649122807014
+      ],
+      "area": 279193.5980301631,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 580,
+      "image_id": 170,
+      "category_id": 0,
+      "bbox": [
+        2963.859649122807,
+        1488.7719298245613,
+        800,
+        324.56140350877195
+      ],
+      "area": 259649.12280701756,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 581,
+      "image_id": 171,
+      "category_id": 0,
+      "bbox": [
+        416.7328186035156,
+        123.62261199951172,
+        1136.8461287649054,
+        524.2721248425935
+      ],
+      "area": 596016.7355466536,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 582,
+      "image_id": 171,
+      "category_id": 0,
+      "bbox": [
+        284.1052631578948,
+        752.1052631578947,
+        1334.7368421052631,
+        474.736842105263
+      ],
+      "area": 633648.7534626037,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 615,
+      "image_id": 179,
+      "category_id": 0,
+      "bbox": [
+        3.413947343826294,
+        11.725173950195312,
+        1605.9544737088052,
+        683.5379839445415
+      ],
+      "area": 1097730.8832656338,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 625,
+      "image_id": 182,
+      "category_id": 0,
+      "bbox": [
+        7.263157894736935,
+        99.4736842105263,
+        1530.5263157894735,
+        617.8947368421052
+      ],
+      "area": 945704.1551246536,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 626,
+      "image_id": 183,
+      "category_id": 0,
+      "bbox": [
+        345.1578947368422,
+        312.10526315789474,
+        1256.0570710834704,
+        661.8981548108552
+      ],
+      "area": 831381.8576872762,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": -1,
+      "original_label": "tray|age=one|yellow=yes|disease=unk"
+    },
+    {
+      "id": 629,
+      "image_id": 186,
+      "category_id": 0,
+      "bbox": [
+        0,
+        318.42105263157896,
+        1624,
+        729.595548930921
+      ],
+      "area": 1184863.1714638157,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 630,
+      "image_id": 187,
+      "category_id": 0,
+      "bbox": [
+        0,
+        189.15121620579768,
+        1611.5170898437498,
+        706.1119416889392
+      ],
+      "area": 1137911.4613744789,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 644,
+      "image_id": 192,
+      "category_id": 0,
+      "bbox": [
+        1849.618408203125,
+        1613.138671875,
+        889.9931640625,
+        327.61962890625
+      ],
+      "area": 291579.2301392555,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 645,
+      "image_id": 192,
+      "category_id": 0,
+      "bbox": [
+        10.12738037109375,
+        1638.2728271484375,
+        903.5316162109375,
+        315.05859375
+      ],
+      "area": 284665.4004120827,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 646,
+      "image_id": 192,
+      "category_id": 0,
+      "bbox": [
+        269.53546142578125,
+        1210.8907470703125,
+        789.6069946289062,
+        259.619140625
+      ],
+      "area": 204997.08937704563,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 647,
+      "image_id": 192,
+      "category_id": 0,
+      "bbox": [
+        1082.40673828125,
+        1204.2777099609375,
+        791.0211181640625,
+        257.3221435546875
+      ],
+      "area": 203547.24972300231,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 648,
+      "image_id": 192,
+      "category_id": 0,
+      "bbox": [
+        2796.815185546875,
+        1599.470947265625,
+        914.35693359375,
+        337.48828125
+      ],
+      "area": 308584.7499675751,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 649,
+      "image_id": 192,
+      "category_id": 0,
+      "bbox": [
+        920.4384155273438,
+        1629.24365234375,
+        921.3712768554688,
+        319.37109375
+      ],
+      "area": 294259.3524391651,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 653,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        1137.955078125,
+        1706.2261962890625,
+        788.9571533203125,
+        332.378173828125
+      ],
+      "area": 262232.1378492415,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 654,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        1934.181884765625,
+        1711.799560546875,
+        762.588134765625,
+        346.91162109375
+      ],
+      "area": 264550.68605840206,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 655,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        1268.4683837890625,
+        1308.8013916015625,
+        691.39892578125,
+        233.78271484375
+      ],
+      "area": 161637.11790919304,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 656,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        1964.2650146484375,
+        1323.9656982421875,
+        684.2100830078125,
+        240.720458984375
+      ],
+      "area": 164703.36522337794,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 657,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        2709.097900390625,
+        1736.275634765625,
+        753.854248046875,
+        339.36474609375
+      ],
+      "area": 255831.55548012257,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 658,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        563.391357421875,
+        1297.4974365234375,
+        699.617919921875,
+        226.3209228515625
+      ],
+      "area": 158338.1732802093,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 659,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        342.3084411621094,
+        1693.506591796875,
+        783.4095764160156,
+        314.337158203125
+      ],
+      "area": 246254.73995972425,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 660,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        2651.36279296875,
+        1346.8521728515625,
+        686.95166015625,
+        243.744873046875
+      ],
+      "area": 167440.94519412518,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 661,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        853.764404296875,
+        1128.2178955078125,
+        532.8050537109375,
+        157.946044921875
+      ],
+      "area": 84154.45094802976,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 662,
+      "image_id": 195,
+      "category_id": 0,
+      "bbox": [
+        1407.0728759765625,
+        1139.5074462890625,
+        543.6566162109375,
+        159.252197265625
+      ],
+      "area": 86578.5106895864,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 663,
+      "image_id": 196,
+      "category_id": 0,
+      "bbox": [
+        1943.931884765625,
+        1553.635986328125,
+        753.955078125,
+        292.697021484375
+      ],
+      "area": 220680.40570020676,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 664,
+      "image_id": 196,
+      "category_id": 0,
+      "bbox": [
+        2713.078369140625,
+        1570.1866455078125,
+        749.940673828125,
+        299.389892578125
+      ],
+      "area": 224524.65777736902,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 665,
+      "image_id": 196,
+      "category_id": 0,
+      "bbox": [
+        1319.7071533203125,
+        1235.8524169921875,
+        633.9913330078125,
+        217.09619140625
+      ],
+      "area": 137637.10378056765,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 666,
+      "image_id": 196,
+      "category_id": 0,
+      "bbox": [
+        1159.181884765625,
+        1535.0635986328125,
+        769.207763671875,
+        286.966552734375
+      ],
+      "area": 220736.90027743578,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 667,
+      "image_id": 196,
+      "category_id": 0,
+      "bbox": [
+        1959.129638671875,
+        1255.9110107421875,
+        615.060791015625,
+        214.291259765625
+      ],
+      "area": 131802.1517391801,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 668,
+      "image_id": 196,
+      "category_id": 0,
+      "bbox": [
+        353.745849609375,
+        1508.9873046875,
+        795.23193359375,
+        286.34912109375
+      ],
+      "area": 227713.96525025368,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 669,
+      "image_id": 196,
+      "category_id": 0,
+      "bbox": [
+        691.24365234375,
+        1217.239501953125,
+        630.938232421875,
+        214.5010986328125
+      ],
+      "area": 135336.944023937,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 670,
+      "image_id": 196,
+      "category_id": 0,
+      "bbox": [
+        2585.164306640625,
+        1297.4820556640625,
+        639.781494140625,
+        200.2115478515625
+      ],
+      "area": 128091.6432286799,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 695,
+      "image_id": 202,
+      "category_id": 0,
+      "bbox": [
+        354.74576271186436,
+        1342.7118644067796,
+        759.322033898305,
+        220.33898305084745
+      ],
+      "area": 167308.24475725365,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 696,
+      "image_id": 202,
+      "category_id": 0,
+      "bbox": [
+        1115.7627118644068,
+        1354.5762711864406,
+        747.457627118644,
+        210.16949152542384
+      ],
+      "area": 157092.78942832528,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 697,
+      "image_id": 202,
+      "category_id": 0,
+      "bbox": [
+        1864.915254237288,
+        1357.9661016949153,
+        725.4237288135596,
+        215.25423728813553
+      ],
+      "area": 156150.53145647803,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 698,
+      "image_id": 202,
+      "category_id": 0,
+      "bbox": [
+        2593.728813559322,
+        1361.3559322033898,
+        793.2203389830506,
+        215.25423728813576
+      ],
+      "area": 170744.03906923305,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 699,
+      "image_id": 202,
+      "category_id": 0,
+      "bbox": [
+        3.898305084745683,
+        1607.1186440677966,
+        889.8305084745764,
+        323.72881355932213
+      ],
+      "area": 288063.77477736294,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 700,
+      "image_id": 202,
+      "category_id": 0,
+      "bbox": [
+        895.4237288135593,
+        1607.1186440677966,
+        964.4067796610169,
+        322.0338983050847
+      ],
+      "area": 310571.67480609013,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 701,
+      "image_id": 202,
+      "category_id": 0,
+      "bbox": [
+        1900.5084745762713,
+        1622.3728813559321,
+        922.0338983050849,
+        318.6440677966102
+      ],
+      "area": 293800.63200229825,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 702,
+      "image_id": 202,
+      "category_id": 0,
+      "bbox": [
+        2825.9322033898306,
+        1622.3728813559321,
+        942.3728813559323,
+        318.6440677966102
+      ],
+      "area": 300281.5282964666,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 718,
+      "image_id": 211,
+      "category_id": 0,
+      "bbox": [
+        179.2645263671875,
+        90.77107238769531,
+        1440.3106689453125,
+        749.0464935302734
+      ],
+      "area": 1078859.6561677288,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 742,
+      "image_id": 217,
+      "category_id": 0,
+      "bbox": [
+        225.8888888888889,
+        520,
+        1398.111111111111,
+        720
+      ],
+      "area": 1006640,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 743,
+      "image_id": 217,
+      "category_id": 0,
+      "bbox": [
+        0,
+        0,
+        1623,
+        445.92592592592587
+      ],
+      "area": 723737.7777777776,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 746,
+      "image_id": 220,
+      "category_id": 0,
+      "bbox": [
+        134.6315789473685,
+        520.5263157894736,
+        1489.3684210526314,
+        697.3944605777139
+      ],
+      "area": 1038677.2866014813,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 747,
+      "image_id": 220,
+      "category_id": 0,
+      "bbox": [
+        257.53204907869053,
+        26.31578947368422,
+        1366.4679509213095,
+        468.9473684210526
+      ],
+      "area": 640801.5496162561,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 779,
+      "image_id": 232,
+      "category_id": 0,
+      "bbox": [
+        2732.70556640625,
+        1728.19921875,
+        772.376953125,
+        338.548095703125
+      ],
+      "area": 261486.7466454506,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 780,
+      "image_id": 232,
+      "category_id": 0,
+      "bbox": [
+        1911.7342529296875,
+        1704.3336181640625,
+        807.5089111328125,
+        330.6767578125
+      ],
+      "area": 267024.4286381006,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 781,
+      "image_id": 232,
+      "category_id": 0,
+      "bbox": [
+        337.24090576171875,
+        1642.2777099609375,
+        771.3574829101562,
+        329.62353515625
+      ],
+      "area": 254257.5803860724,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=unk|disease=yes"
+    },
+    {
+      "id": 782,
+      "image_id": 232,
+      "category_id": 0,
+      "bbox": [
+        1109.0811767578125,
+        1659.654541015625,
+        792.1102294921875,
+        338.7747802734375
+      ],
+      "area": 268346.968948558,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 783,
+      "image_id": 233,
+      "category_id": 0,
+      "bbox": [
+        189.72727272727272,
+        146.36363636363635,
+        1377.2727272727273,
+        648.1818181818181
+      ],
+      "area": 892723.1404958677,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 784,
+      "image_id": 234,
+      "category_id": 0,
+      "bbox": [
+        1967.9996337890625,
+        1251.6424560546875,
+        609.7982177734375,
+        216.5718994140625
+      ],
+      "area": 132065.1582825035,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 785,
+      "image_id": 234,
+      "category_id": 0,
+      "bbox": [
+        1721.9139404296875,
+        1527.4984130859375,
+        738.6707763671875,
+        293.3228759765625
+      ],
+      "area": 216669.03652386367,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=unk|disease=unk"
+    },
+    {
+      "id": 786,
+      "image_id": 234,
+      "category_id": 0,
+      "bbox": [
+        2477.945068359375,
+        1534.7879638671875,
+        746.89453125,
+        310.83251953125
+      ],
+      "area": 232159.10897254944,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 787,
+      "image_id": 234,
+      "category_id": 0,
+      "bbox": [
+        2582.716552734375,
+        1274.7152099609375,
+        606.428466796875,
+        212.8079833984375
+      ],
+      "area": 129052.81909444928,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 790,
+      "image_id": 236,
+      "category_id": 0,
+      "bbox": [
+        27.62711864406772,
+        1639.322033898305,
+        1133.8983050847457,
+        333.89830508474574
+      ],
+      "area": 378606.7222062625,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 791,
+      "image_id": 236,
+      "category_id": 0,
+      "bbox": [
+        1963.2203389830509,
+        1627.457627118644,
+        962.7118644067798,
+        344.06779661016935
+      ],
+      "area": 331238.14995690883,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 792,
+      "image_id": 236,
+      "category_id": 0,
+      "bbox": [
+        2927.6271186440677,
+        1625.7627118644068,
+        911.3728813559323,
+        344.29642184557406
+      ],
+      "area": 313782.4220179384,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 793,
+      "image_id": 236,
+      "category_id": 0,
+      "bbox": [
+        429.32203389830505,
+        1349.4915254237287,
+        757.6271186440677,
+        262.7118644067798
+      ],
+      "area": 199037.63286411957,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 794,
+      "image_id": 236,
+      "category_id": 0,
+      "bbox": [
+        1188.6440677966102,
+        1342.7118644067796,
+        747.457627118644,
+        271.1864406779662
+      ],
+      "area": 202700.37345590352,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 795,
+      "image_id": 236,
+      "category_id": 0,
+      "bbox": [
+        1936.1016949152543,
+        1349.4915254237287,
+        740.6779661016951,
+        269.49152542372894
+      ],
+      "area": 199606.4349324908,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 796,
+      "image_id": 236,
+      "category_id": 0,
+      "bbox": [
+        2676.7796610169494,
+        1347.7966101694915,
+        749.1525423728813,
+        266.10169491525426
+      ],
+      "area": 199350.76127549555,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 797,
+      "image_id": 237,
+      "category_id": 0,
+      "bbox": [
+        500.1724137931034,
+        1186.896551724138,
+        691.3793103448276,
+        248.27586206896558
+      ],
+      "area": 171652.79429250894,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 798,
+      "image_id": 237,
+      "category_id": 0,
+      "bbox": [
+        1215.6896551724137,
+        1197.2413793103449,
+        656.8965517241379,
+        236.20689655172418
+      ],
+      "area": 155163.49583828778,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=yes|disease=no"
+    },
+    {
+      "id": 799,
+      "image_id": 237,
+      "category_id": 0,
+      "bbox": [
+        1891.551724137931,
+        1207.5862068965519,
+        668.9655172413793,
+        248.27586206896558
+      ],
+      "area": 166087.9904875149,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": -1,
+      "original_label": "tray|age=one|yellow=yes|disease=unk"
+    },
+    {
+      "id": 800,
+      "image_id": 237,
+      "category_id": 0,
+      "bbox": [
+        2576.034482758621,
+        1207.5862068965519,
+        674.1379310344828,
+        241.37931034482745
+      ],
+      "area": 162722.9488703923,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": -1,
+      "original_label": "tray|age=one|yellow=yes|disease=unk"
+    },
+    {
+      "id": 801,
+      "image_id": 237,
+      "category_id": 0,
+      "bbox": [
+        267.41379310344814,
+        1448.9655172413793,
+        813.7931034482758,
+        301.72413793103465
+      ],
+      "area": 245541.02259215232,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 802,
+      "image_id": 237,
+      "category_id": 0,
+      "bbox": [
+        1112.2413793103447,
+        1473.103448275862,
+        824.137931034483,
+        279.3103448275863
+      ],
+      "area": 230190.24970273496,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=yes|disease=no"
+    },
+    {
+      "id": 803,
+      "image_id": 237,
+      "category_id": 0,
+      "bbox": [
+        1951.896551724138,
+        1473.103448275862,
+        844.8275862068965,
+        294.82758620689674
+      ],
+      "area": 249078.47800237828,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": -1,
+      "original_label": "tray|age=one|yellow=yes|disease=unk"
+    },
+    {
+      "id": 804,
+      "image_id": 237,
+      "category_id": 0,
+      "bbox": [
+        2813.9655172413795,
+        1483.448275862069,
+        832.7586206896549,
+        263.7931034482758
+      ],
+      "area": 219675.9809750296,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=yes|disease=no"
+    },
+    {
+      "id": 828,
+      "image_id": 244,
+      "category_id": 0,
+      "bbox": [
+        0,
+        428.7071838378906,
+        1623,
+        646.555974056846
+      ],
+      "area": 1049360.345894261,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 848,
+      "image_id": 251,
+      "category_id": 0,
+      "bbox": [
+        131.01694915254228,
+        1512.2033898305085,
+        893.2203389830509,
+        308.4745762711864
+      ],
+      "area": 275535.7655846021,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 849,
+      "image_id": 251,
+      "category_id": 0,
+      "bbox": [
+        1024.2372881355932,
+        1508.8135593220338,
+        900,
+        313.5593220338983
+      ],
+      "area": 282203.38983050844,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 850,
+      "image_id": 251,
+      "category_id": 0,
+      "bbox": [
+        1929.322033898305,
+        1510.5084745762713,
+        872.8813559322034,
+        313.5593220338983
+      ],
+      "area": 273700.08618213155,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 851,
+      "image_id": 251,
+      "category_id": 0,
+      "bbox": [
+        2800.508474576271,
+        1517.2881355932204,
+        862.71186440678,
+        303.38983050847446
+      ],
+      "area": 261738.00632002298,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 852,
+      "image_id": 251,
+      "category_id": 0,
+      "bbox": [
+        549.6610169491524,
+        1268.135593220339,
+        715.2542372881356,
+        218.64406779661022
+      ],
+      "area": 156386.09594943986,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 853,
+      "image_id": 251,
+      "category_id": 0,
+      "bbox": [
+        1264.915254237288,
+        1266.4406779661017,
+        676.2711864406781,
+        215.25423728813553
+      ],
+      "area": 145570.23843723067,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 854,
+      "image_id": 251,
+      "category_id": 0,
+      "bbox": [
+        1942.8813559322034,
+        1264.7457627118645,
+        701.6949152542375,
+        222.03389830508468
+      ],
+      "area": 155800.05745475437,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 855,
+      "image_id": 251,
+      "category_id": 0,
+      "bbox": [
+        2644.576271186441,
+        1263.050847457627,
+        701.694915254237,
+        237.28813559322043
+      ],
+      "area": 166503.8781959207,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 859,
+      "image_id": 254,
+      "category_id": 0,
+      "bbox": [
+        367.55555555555554,
+        70.92592592592594,
+        1228.9230821397568,
+        613.9941790545428
+      ],
+      "area": 754551.6189395784,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 860,
+      "image_id": 254,
+      "category_id": 0,
+      "bbox": [
+        0,
+        910.7407407407408,
+        1604.382080078125,
+        329.25925925925924
+      ],
+      "area": 528257.655255353,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 899,
+      "image_id": 264,
+      "category_id": 0,
+      "bbox": [
+        340.9473684210527,
+        230,
+        1270.5263157894735,
+        611.5789473684209
+      ],
+      "area": 777027.1468144042,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": -1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=unk|disease=yes"
+    },
+    {
+      "id": 935,
+      "image_id": 274,
+      "category_id": 0,
+      "bbox": [
+        529.91455078125,
+        1315.1839599609375,
+        740.969970703125,
+        240.775390625
+      ],
+      "area": 178407.33413743973,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 936,
+      "image_id": 274,
+      "category_id": 0,
+      "bbox": [
+        2714.87841796875,
+        1391.1334228515625,
+        666.456298828125,
+        244.9161376953125
+      ],
+      "area": 163225.9026516974,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 937,
+      "image_id": 274,
+      "category_id": 0,
+      "bbox": [
+        1279.0869140625,
+        1336.0804443359375,
+        700.2952880859375,
+        240.05419921875
+      ],
+      "area": 168108.82459813356,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 938,
+      "image_id": 274,
+      "category_id": 0,
+      "bbox": [
+        1982.2294921875,
+        1365.954833984375,
+        711.26806640625,
+        232.0418701171875
+      ],
+      "area": 165043.97228354216,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 939,
+      "image_id": 274,
+      "category_id": 0,
+      "bbox": [
+        2700.725830078125,
+        1781.9417724609375,
+        755.810302734375,
+        366.5528564453125
+      ],
+      "area": 277044.42539808154,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 940,
+      "image_id": 274,
+      "category_id": 0,
+      "bbox": [
+        1956.6873779296875,
+        1788.0809326171875,
+        745.6727294921875,
+        338.2960205078125
+      ],
+      "area": 252258.11698840559,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 941,
+      "image_id": 274,
+      "category_id": 0,
+      "bbox": [
+        1940.380126953125,
+        1189.4517822265625,
+        554.7109375,
+        165.6068115234375
+      ],
+      "area": 91863.90967655182,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 942,
+      "image_id": 274,
+      "category_id": 0,
+      "bbox": [
+        791.2156372070312,
+        1164.7080078125,
+        570.6843872070312,
+        153.916259765625
+      ],
+      "area": 87837.60638554394,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 943,
+      "image_id": 274,
+      "category_id": 0,
+      "bbox": [
+        1368.3072509765625,
+        1163.06005859375,
+        559.1553955078125,
+        168.4613037109375
+      ],
+      "area": 94196.04690425098,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 945,
+      "image_id": 277,
+      "category_id": 0,
+      "bbox": [
+        49.02792739868164,
+        1.2285014390945435,
+        1574.3502464294434,
+        638.140028834343
+      ],
+      "area": 1004655.91165184,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 946,
+      "image_id": 277,
+      "category_id": 0,
+      "bbox": [
+        0,
+        793.7264404296875,
+        1597.390380859375,
+        446.2735595703125
+      ],
+      "area": 712873.0912894905,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 965,
+      "image_id": 287,
+      "category_id": 0,
+      "bbox": [
+        0,
+        638.4437210648144,
+        1611.2449951171875,
+        601.5562789351856
+      ],
+      "area": 969254.5437156366,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 966,
+      "image_id": 287,
+      "category_id": 0,
+      "bbox": [
+        161.0740740740741,
+        220,
+        1067.5925925925924,
+        412.03703703703707
+      ],
+      "area": 439887.6886145404,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 968,
+      "image_id": 289,
+      "category_id": 0,
+      "bbox": [
+        1.0691139698028564,
+        134.2090301513672,
+        1438.0124289989471,
+        581.6416778564453
+      ],
+      "area": 836407.96198137,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 969,
+      "image_id": 289,
+      "category_id": 0,
+      "bbox": [
+        0,
+        834.5126953125,
+        1495.9468994140625,
+        405.4873046875
+      ],
+      "area": 606587.4761990309,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 970,
+      "image_id": 290,
+      "category_id": 0,
+      "bbox": [
+        340.3369445800781,
+        186.58377075195312,
+        1280.8381042480469,
+        697.4848937988281
+      ],
+      "area": 893365.2291149413,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 989,
+      "image_id": 296,
+      "category_id": 0,
+      "bbox": [
+        2776.1982421875,
+        1378.964111328125,
+        899.773681640625,
+        327.2281494140625
+      ],
+      "area": 294431.27673473954,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 990,
+      "image_id": 296,
+      "category_id": 0,
+      "bbox": [
+        960.626953125,
+        1385.729736328125,
+        908.5361328125,
+        329.8670654296875
+      ],
+      "area": 299696.1479676962,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 991,
+      "image_id": 296,
+      "category_id": 0,
+      "bbox": [
+        45.680511474609375,
+        1404.0966796875,
+        911.8508605957031,
+        330.790283203125
+      ],
+      "area": 301631.4044154659,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 992,
+      "image_id": 296,
+      "category_id": 0,
+      "bbox": [
+        1874.712646484375,
+        1393.1942138671875,
+        901.487060546875,
+        318.065185546875
+      ],
+      "area": 286731.64918094873,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 993,
+      "image_id": 296,
+      "category_id": 0,
+      "bbox": [
+        2632.01171875,
+        1155.4439697265625,
+        745.382080078125,
+        215.9036865234375
+      ],
+      "area": 160930.7389573753,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 994,
+      "image_id": 296,
+      "category_id": 0,
+      "bbox": [
+        1901.6473388671875,
+        1155.8983154296875,
+        721.1812744140625,
+        219.3541259765625
+      ],
+      "area": 158194.08811976016,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 995,
+      "image_id": 296,
+      "category_id": 0,
+      "bbox": [
+        1145.940673828125,
+        1158.9112548828125,
+        724.76123046875,
+        216.33984375
+      ],
+      "area": 156794.7313556671,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 996,
+      "image_id": 296,
+      "category_id": 0,
+      "bbox": [
+        390.88165283203125,
+        1182.1890869140625,
+        738.1511840820312,
+        199.856689453125
+      ],
+      "area": 147524.45196653903,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=unk|disease=unk"
+    },
+    {
+      "id": 1009,
+      "image_id": 298,
+      "category_id": 0,
+      "bbox": [
+        156.44067796610162,
+        1486.7796610169491,
+        888.135593220339,
+        311.86440677966107
+      ],
+      "area": 276977.8799195634,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1010,
+      "image_id": 298,
+      "category_id": 0,
+      "bbox": [
+        1041.186440677966,
+        1480,
+        896.6101694915255,
+        310.16949152542384
+      ],
+      "area": 278101.12036771054,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1011,
+      "image_id": 298,
+      "category_id": 0,
+      "bbox": [
+        1937.7966101694915,
+        1480,
+        877.9661016949153,
+        318.6440677966102
+      ],
+      "area": 279758.6900316002,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1012,
+      "image_id": 298,
+      "category_id": 0,
+      "bbox": [
+        2817.4576271186443,
+        1473.2203389830509,
+        876.2711864406779,
+        337.28813559322043
+      ],
+      "area": 295555.8747486355,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1013,
+      "image_id": 298,
+      "category_id": 0,
+      "bbox": [
+        546.2711864406779,
+        1251.1864406779662,
+        688.1355932203389,
+        223.7288135593219
+      ],
+      "area": 153955.75983912658,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1014,
+      "image_id": 298,
+      "category_id": 0,
+      "bbox": [
+        1234.4067796610168,
+        1249.4915254237287,
+        696.6101694915255,
+        228.81355932203405
+      ],
+      "area": 159393.85234128137,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1015,
+      "image_id": 298,
+      "category_id": 0,
+      "bbox": [
+        1934.406779661017,
+        1246.1016949152543,
+        683.0508474576272,
+        232.2033898305085
+      ],
+      "area": 158606.7222062626,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1016,
+      "image_id": 298,
+      "category_id": 0,
+      "bbox": [
+        2622.5423728813557,
+        1244.406779661017,
+        694.9152542372885,
+        225.42372881355914
+      ],
+      "area": 156650.38781959203,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1017,
+      "image_id": 299,
+      "category_id": 0,
+      "bbox": [
+        1128.532470703125,
+        1536.7470703125,
+        777.7423095703125,
+        324.095947265625
+      ],
+      "area": 252063.1305487454,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1018,
+      "image_id": 299,
+      "category_id": 0,
+      "bbox": [
+        1274.8165283203125,
+        1220.27685546875,
+        639.28271484375,
+        233.5594482421875
+      ],
+      "area": 149310.51814967394,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1019,
+      "image_id": 299,
+      "category_id": 0,
+      "bbox": [
+        1913.1727294921875,
+        1550.3741455078125,
+        775.7349853515625,
+        336.181640625
+      ],
+      "area": 260787.86006569862,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1020,
+      "image_id": 299,
+      "category_id": 0,
+      "bbox": [
+        2700.983154296875,
+        1593.144287109375,
+        760.07666015625,
+        317.98095703125
+      ],
+      "area": 241689.90381360054,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1021,
+      "image_id": 299,
+      "category_id": 0,
+      "bbox": [
+        1929.511962890625,
+        1254.8426513671875,
+        656.440673828125,
+        221.4544677734375
+      ],
+      "area": 145371.7200474441,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1022,
+      "image_id": 299,
+      "category_id": 0,
+      "bbox": [
+        333.47625732421875,
+        1496.5594482421875,
+        784.3585815429688,
+        324.83056640625
+      ],
+      "area": 254783.64230820537,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1023,
+      "image_id": 299,
+      "category_id": 0,
+      "bbox": [
+        595.314697265625,
+        1205.4576416015625,
+        678.2564697265625,
+        231.186767578125
+      ],
+      "area": 156803.92082503438,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=unk|disease=no"
+    },
+    {
+      "id": 1024,
+      "image_id": 299,
+      "category_id": 0,
+      "bbox": [
+        2577.406494140625,
+        1279.2509765625,
+        642.13330078125,
+        225.404296875
+      ],
+      "area": 144739.60516262054,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=unk|disease=no"
+    },
+    {
+      "id": 1035,
+      "image_id": 301,
+      "category_id": 0,
+      "bbox": [
+        57.31228256225586,
+        380.11669921875,
+        1486.2422828674316,
+        744.3873291015625
+      ],
+      "area": 1106339.9233414964,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 1039,
+      "image_id": 303,
+      "category_id": 0,
+      "bbox": [
+        336.4565124511719,
+        817.0421752929688,
+        1268.2844543457031,
+        422.95782470703125
+      ],
+      "area": 536430.8339198027,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 1040,
+      "image_id": 303,
+      "category_id": 0,
+      "bbox": [
+        404.8534240722656,
+        147.7313995361328,
+        1152.5705261230469,
+        535.4966888427734
+      ],
+      "area": 617197.7003966649,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 1065,
+      "image_id": 311,
+      "category_id": 0,
+      "bbox": [
+        9.368421052631675,
+        67.89473684210525,
+        1477.8947368421052,
+        573.6842105263157
+      ],
+      "area": 847844.8753462603,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1076,
+      "image_id": 315,
+      "category_id": 0,
+      "bbox": [
+        446.3157894736843,
+        1232.6315789473683,
+        680.701754385965,
+        226.31578947368416
+      ],
+      "area": 154053.55493998152,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1077,
+      "image_id": 315,
+      "category_id": 0,
+      "bbox": [
+        1158.5964912280704,
+        1239.6491228070174,
+        724.5614035087717,
+        231.57894736842104
+      ],
+      "area": 167793.16712834712,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1078,
+      "image_id": 315,
+      "category_id": 0,
+      "bbox": [
+        1902.4561403508771,
+        1237.8947368421052,
+        743.859649122807,
+        236.84210526315792
+      ],
+      "area": 176177.28531855956,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1079,
+      "image_id": 315,
+      "category_id": 0,
+      "bbox": [
+        2660.3508771929824,
+        1243.157894736842,
+        603.5087719298244,
+        243.859649122807
+      ],
+      "area": 147171.43736534315,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1080,
+      "image_id": 315,
+      "category_id": 0,
+      "bbox": [
+        107.71929824561418,
+        1487.017543859649,
+        880.7017543859648,
+        284.21052631578937
+      ],
+      "area": 250304.70914127413,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=yes|disease=no"
+    },
+    {
+      "id": 1081,
+      "image_id": 315,
+      "category_id": 0,
+      "bbox": [
+        1032.2807017543862,
+        1497.5438596491226,
+        847.3684210526314,
+        273.68421052631584
+      ],
+      "area": 231911.35734072022,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=yes|disease=no"
+    },
+    {
+      "id": 1082,
+      "image_id": 315,
+      "category_id": 0,
+      "bbox": [
+        1904.2105263157896,
+        1499.298245614035,
+        899.9999999999995,
+        299.9999999999998
+      ],
+      "area": 269999.99999999965,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=unk|disease=no"
+    },
+    {
+      "id": 1083,
+      "image_id": 315,
+      "category_id": 0,
+      "bbox": [
+        2818.2456140350873,
+        1490.5263157894735,
+        849.1228070175439,
+        298.2456140350878
+      ],
+      "area": 253247.15297014473,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=unk|disease=no"
+    },
+    {
+      "id": 1085,
+      "image_id": 317,
+      "category_id": 0,
+      "bbox": [
+        2823.807861328125,
+        1463.856689453125,
+        914.398681640625,
+        335.8463134765625
+      ],
+      "area": 307097.4262768328,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1086,
+      "image_id": 317,
+      "category_id": 0,
+      "bbox": [
+        2021.2763671875,
+        1150.1162109375,
+        756.9091796875,
+        236.473388671875
+      ],
+      "area": 178988.87863755226,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1087,
+      "image_id": 317,
+      "category_id": 0,
+      "bbox": [
+        639.6324462890625,
+        962.7847290039062,
+        631.950439453125,
+        225.74871826171875
+      ],
+      "area": 142662.00171147287,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1088,
+      "image_id": 317,
+      "category_id": 0,
+      "bbox": [
+        2240.0205078125,
+        595.7886352539062,
+        613.04541015625,
+        186.7708740234375
+      ],
+      "area": 114499.02707093954,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1089,
+      "image_id": 317,
+      "category_id": 0,
+      "bbox": [
+        2589.148936170213,
+        925.7446808510639,
+        578.8115130485371,
+        249.6024871176861
+      ],
+      "area": 144472.7932292659,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1090,
+      "image_id": 317,
+      "category_id": 0,
+      "bbox": [
+        1230.9722900390625,
+        602.984130859375,
+        620.622802734375,
+        186.3306884765625
+      ],
+      "area": 115641.07411774993,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1091,
+      "image_id": 317,
+      "category_id": 0,
+      "bbox": [
+        584.2818603515625,
+        613.2205200195312,
+        639.777099609375,
+        171.87567138671875
+      ],
+      "area": 109962.11853320897,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1092,
+      "image_id": 317,
+      "category_id": 0,
+      "bbox": [
+        1288.2635498046875,
+        979.8396606445312,
+        606.2178955078125,
+        208.75592041015625
+      ],
+      "area": 126551.57474584132,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1093,
+      "image_id": 317,
+      "category_id": 0,
+      "bbox": [
+        1011.097412109375,
+        1883.845458984375,
+        811.20166015625,
+        276.154541015625
+      ],
+      "area": 224017.02213156223,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1117,
+      "image_id": 327,
+      "category_id": 0,
+      "bbox": [
+        2848.59228515625,
+        1716.364501953125,
+        915.99462890625,
+        353.078857421875
+      ],
+      "area": 323418.33697879314,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1118,
+      "image_id": 327,
+      "category_id": 0,
+      "bbox": [
+        137.0262451171875,
+        1729.7244873046875,
+        915.8929443359375,
+        352.4779052734375
+      ],
+      "area": 322832.02647425234,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=unk|disease=no"
+    },
+    {
+      "id": 1119,
+      "image_id": 327,
+      "category_id": 0,
+      "bbox": [
+        1947.6353759765625,
+        1709.7066650390625,
+        898.2684326171875,
+        365.0938720703125
+      ],
+      "area": 327952.3002227396,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=unk|disease=yes"
+    },
+    {
+      "id": 1120,
+      "image_id": 327,
+      "category_id": 0,
+      "bbox": [
+        1052.0439453125,
+        1715.47705078125,
+        893.6593017578125,
+        367.85595703125
+      ],
+      "area": 328737.89770799875,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=yes|disease=no"
+    },
+    {
+      "id": 1121,
+      "image_id": 327,
+      "category_id": 0,
+      "bbox": [
+        1141.87744140625,
+        1256.4979248046875,
+        801.8570556640625,
+        247.4425048828125
+      ],
+      "area": 198413.51841147244,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=unk|disease=no"
+    },
+    {
+      "id": 1122,
+      "image_id": 327,
+      "category_id": 0,
+      "bbox": [
+        302.2656555175781,
+        1284.616455078125,
+        837.9187927246094,
+        228.2442626953125
+      ],
+      "area": 191250.15704397485,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=unk|disease=no"
+    },
+    {
+      "id": 1123,
+      "image_id": 327,
+      "category_id": 0,
+      "bbox": [
+        1958.5986328125,
+        1266.6171875,
+        815.50146484375,
+        235.941162109375
+      ],
+      "area": 192410.363317132,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": -1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=unk|disease=no"
+    },
+    {
+      "id": 1124,
+      "image_id": 327,
+      "category_id": 0,
+      "bbox": [
+        2772.01708984375,
+        1261.8619384765625,
+        834.09814453125,
+        238.4859619140625
+      ],
+      "area": 198920.6983292699,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1125,
+      "image_id": 327,
+      "category_id": 0,
+      "bbox": [
+        479.55267333984375,
+        1092.4949951171875,
+        687.4528198242188,
+        178.8011474609375
+      ],
+      "area": 122917.35300982744,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1138,
+      "image_id": 332,
+      "category_id": 0,
+      "bbox": [
+        0,
+        176.1305694580078,
+        1598.842105263158,
+        818.0799568577816
+      ],
+      "area": 1307980.680496089,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1139,
+      "image_id": 333,
+      "category_id": 0,
+      "bbox": [
+        303.89830508474574,
+        1405.4237288135594,
+        822.0338983050847,
+        281.3559322033898
+      ],
+      "area": 231284.11376041363,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1140,
+      "image_id": 333,
+      "category_id": 0,
+      "bbox": [
+        1129.322033898305,
+        1402.0338983050847,
+        789.8305084745762,
+        281.35593220339
+      ],
+      "area": 222223.4989945419,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1141,
+      "image_id": 333,
+      "category_id": 0,
+      "bbox": [
+        1920.8474576271187,
+        1398.6440677966102,
+        781.3559322033898,
+        283.050847457627
+      ],
+      "area": 221163.45877621364,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1142,
+      "image_id": 333,
+      "category_id": 0,
+      "bbox": [
+        2702.2033898305085,
+        1395.2542372881355,
+        771.186440677966,
+        286.4406779661017
+      ],
+      "area": 220899.16690606144,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1143,
+      "image_id": 333,
+      "category_id": 0,
+      "bbox": [
+        12.372881355932122,
+        1752.8813559322034,
+        1072.8813559322034,
+        401.694915254237
+      ],
+      "area": 430970.98534903734,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1144,
+      "image_id": 333,
+      "category_id": 0,
+      "bbox": [
+        1915.7627118644068,
+        1741.0169491525423,
+        1003.3898305084745,
+        410.1694915254236
+      ],
+      "area": 411559.8965814419,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1145,
+      "image_id": 333,
+      "category_id": 0,
+      "bbox": [
+        2920.8474576271187,
+        1734.2372881355932,
+        918.1525423728813,
+        402.84572243051434
+      ],
+      "area": 369873.82423361676,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1146,
+      "image_id": 334,
+      "category_id": 0,
+      "bbox": [
+        174.03703703703707,
+        344.074074074074,
+        1448.962962962963,
+        700.925925925926
+      ],
+      "area": 1015615.706447188,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 1150,
+      "image_id": 337,
+      "category_id": 0,
+      "bbox": [
+        281.90740740740745,
+        105.1851851851852,
+        1337.962962962963,
+        687.9629629629629
+      ],
+      "area": 920468.9643347051,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1165,
+      "image_id": 342,
+      "category_id": 0,
+      "bbox": [
+        1915.2740478515625,
+        1270.97900390625,
+        677.6072998046875,
+        272.0701904296875
+      ],
+      "area": 184356.74709440768,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1166,
+      "image_id": 342,
+      "category_id": 0,
+      "bbox": [
+        252.34451293945312,
+        1603.472900390625,
+        818.5218200683594,
+        363.405029296875
+      ],
+      "area": 297454.9460020736,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1167,
+      "image_id": 342,
+      "category_id": 0,
+      "bbox": [
+        2600.84033203125,
+        1309.18505859375,
+        665.763427734375,
+        257.281494140625
+      ],
+      "area": 171288.60943168402,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1168,
+      "image_id": 342,
+      "category_id": 0,
+      "bbox": [
+        1086.096435546875,
+        1632.2266845703125,
+        791.6373291015625,
+        359.290283203125
+      ],
+      "area": 284427.60016706586,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1169,
+      "image_id": 342,
+      "category_id": 0,
+      "bbox": [
+        2654.261962890625,
+        1696.6395263671875,
+        787.63330078125,
+        356.0726318359375
+      ],
+      "area": 280454.66233080626,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1170,
+      "image_id": 342,
+      "category_id": 0,
+      "bbox": [
+        1233.18310546875,
+        1261.8914794921875,
+        685.55712890625,
+        259.0850830078125
+      ],
+      "area": 177617.6256492734,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1171,
+      "image_id": 342,
+      "category_id": 0,
+      "bbox": [
+        1877.5762939453125,
+        1660.6051025390625,
+        775.8468017578125,
+        362.196533203125
+      ],
+      "area": 281009.0218934119,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1172,
+      "image_id": 342,
+      "category_id": 0,
+      "bbox": [
+        523.0507202148438,
+        1225.92822265625,
+        715.3540649414062,
+        262.510986328125
+      ],
+      "area": 187788.30116160214,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1173,
+      "image_id": 342,
+      "category_id": 0,
+      "bbox": [
+        819.939208984375,
+        1113.5703125,
+        489.9664306640625,
+        125.5191650390625
+      ],
+      "area": 61500.177274122834,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1201,
+      "image_id": 346,
+      "category_id": 0,
+      "bbox": [
+        225.1578947368422,
+        220.52631578947367,
+        1335.7894736842104,
+        618.9473684210526
+      ],
+      "area": 826783.3795013849,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1204,
+      "image_id": 349,
+      "category_id": 0,
+      "bbox": [
+        197.64814814814815,
+        380.18518518518516,
+        1425.3518518518517,
+        700.4275172690193
+      ],
+      "area": 998355.6588273915,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 0,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=yes|disease=no"
+    },
+    {
+      "id": 1219,
+      "image_id": 353,
+      "category_id": 0,
+      "bbox": [
+        0,
+        428.9473684210526,
+        1624,
+        805.1889841180099
+      ],
+      "area": 1307626.910207648,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1227,
+      "image_id": 355,
+      "category_id": 0,
+      "bbox": [
+        1086.9491525423728,
+        1420.677966101695,
+        815.2542372881358,
+        283.05084745762724
+      ],
+      "area": 230758.40275782836,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1228,
+      "image_id": 355,
+      "category_id": 0,
+      "bbox": [
+        1903.8983050847457,
+        1422.3728813559321,
+        798.3050847457628,
+        274.57627118644086
+      ],
+      "area": 219195.63343866722,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1229,
+      "image_id": 355,
+      "category_id": 0,
+      "bbox": [
+        2703.898305084746,
+        1415.593220338983,
+        801.694915254237,
+        279.66101694915255
+      ],
+      "area": 224202.81528296458,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1230,
+      "image_id": 355,
+      "category_id": 0,
+      "bbox": [
+        1232.7118644067796,
+        1190.1694915254236,
+        657.6271186440679,
+        210.16949152542384
+      ],
+      "area": 138213.15713875333,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1231,
+      "image_id": 355,
+      "category_id": 0,
+      "bbox": [
+        1890.3389830508474,
+        1190.1694915254236,
+        652.542372881356,
+        213.55932203389852
+      ],
+      "area": 139356.5067509338,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1232,
+      "image_id": 355,
+      "category_id": 0,
+      "bbox": [
+        2539.491525423729,
+        1195.2542372881355,
+        662.7118644067796,
+        200
+      ],
+      "area": 132542.37288135593,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1243,
+      "image_id": 359,
+      "category_id": 0,
+      "bbox": [
+        0,
+        485.3994140625,
+        1610.179443359375,
+        720.5362548828125
+      ],
+      "area": 1160192.6658074558,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1244,
+      "image_id": 360,
+      "category_id": 0,
+      "bbox": [
+        396.4337463378906,
+        123.89835357666016,
+        1195.4936218261719,
+        563.7040634155273
+      ],
+      "area": 673904.6124107589,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 1245,
+      "image_id": 360,
+      "category_id": 0,
+      "bbox": [
+        328.38616943359375,
+        828.2214965820312,
+        1295.6138305664062,
+        406.27691650390625
+      ],
+      "area": 526377.992062334,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=no|disease=yes"
+    },
+    {
+      "id": 1249,
+      "image_id": 362,
+      "category_id": 0,
+      "bbox": [
+        0,
+        352.10526315789474,
+        1620.9473684210525,
+        785.2631578947367
+      ],
+      "area": 1272870.2493074788,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1260,
+      "image_id": 368,
+      "category_id": 0,
+      "bbox": [
+        50.42011260986328,
+        173.8970489501953,
+        1571.3383102416992,
+        655.2386322021484
+      ],
+      "area": 1029601.5651296062,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 1264,
+      "image_id": 372,
+      "category_id": 0,
+      "bbox": [
+        27.62711864406772,
+        1639.322033898305,
+        1133.8983050847457,
+        333.89830508474574
+      ],
+      "area": 378606.7222062625,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1265,
+      "image_id": 372,
+      "category_id": 0,
+      "bbox": [
+        1963.2203389830509,
+        1627.457627118644,
+        962.7118644067798,
+        344.06779661016935
+      ],
+      "area": 331238.14995690883,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1266,
+      "image_id": 372,
+      "category_id": 0,
+      "bbox": [
+        2927.6271186440677,
+        1625.7627118644068,
+        911.3728813559323,
+        344.29642184557406
+      ],
+      "area": 313782.4220179384,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1267,
+      "image_id": 372,
+      "category_id": 0,
+      "bbox": [
+        429.32203389830505,
+        1349.4915254237287,
+        757.6271186440677,
+        262.7118644067798
+      ],
+      "area": 199037.63286411957,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1268,
+      "image_id": 372,
+      "category_id": 0,
+      "bbox": [
+        1188.6440677966102,
+        1342.7118644067796,
+        747.457627118644,
+        271.1864406779662
+      ],
+      "area": 202700.37345590352,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1269,
+      "image_id": 372,
+      "category_id": 0,
+      "bbox": [
+        1936.1016949152543,
+        1349.4915254237287,
+        740.6779661016951,
+        269.49152542372894
+      ],
+      "area": 199606.4349324908,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1270,
+      "image_id": 372,
+      "category_id": 0,
+      "bbox": [
+        2676.7796610169494,
+        1347.7966101694915,
+        749.1525423728813,
+        266.10169491525426
+      ],
+      "area": 199350.76127549555,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1285,
+      "image_id": 379,
+      "category_id": 0,
+      "bbox": [
+        288.85185185185185,
+        130.1851851851852,
+        1334.1481481481483,
+        678.7037037037037
+      ],
+      "area": 905491.2894375859,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1289,
+      "image_id": 382,
+      "category_id": 0,
+      "bbox": [
+        150.8888888888888,
+        242.22222222222223,
+        1438.8888888888887,
+        668.5185185185185
+      ],
+      "area": 961923.868312757,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1329,
+      "image_id": 394,
+      "category_id": 0,
+      "bbox": [
+        0,
+        96.85185185185186,
+        1623,
+        725
+      ],
+      "area": 1176675,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1331,
+      "image_id": 396,
+      "category_id": 0,
+      "bbox": [
+        295.42071533203125,
+        1548.038818359375,
+        814.2440795898438,
+        309.926513671875
+      ],
+      "area": 252355.82886524498,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1332,
+      "image_id": 396,
+      "category_id": 0,
+      "bbox": [
+        2733.56396484375,
+        1625.0394287109375,
+        754.65966796875,
+        311.38037109375
+      ],
+      "area": 234986.20746159554,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1333,
+      "image_id": 396,
+      "category_id": 0,
+      "bbox": [
+        1245.3834228515625,
+        1244.6297607421875,
+        662.835205078125,
+        224.1636962890625
+      ],
+      "area": 148583.58960083127,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1334,
+      "image_id": 396,
+      "category_id": 0,
+      "bbox": [
+        1941.8880615234375,
+        1600.039306640625,
+        782.8570556640625,
+        309.906005859375
+      ],
+      "area": 242612.10327968,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1335,
+      "image_id": 396,
+      "category_id": 0,
+      "bbox": [
+        543.7780151367188,
+        1236.27978515625,
+        695.3878784179688,
+        220.0689697265625
+      ],
+      "area": 153033.2939637825,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1336,
+      "image_id": 396,
+      "category_id": 0,
+      "bbox": [
+        1111.165283203125,
+        1570.0283203125,
+        815.9959716796875,
+        314.192138671875
+      ],
+      "area": 256379.51948967576,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1337,
+      "image_id": 396,
+      "category_id": 0,
+      "bbox": [
+        1907.456298828125,
+        1278.367431640625,
+        651.905517578125,
+        214.7760009765625
+      ],
+      "area": 140013.66007998586,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1338,
+      "image_id": 396,
+      "category_id": 0,
+      "bbox": [
+        2563.147705078125,
+        1299.62158203125,
+        661.412109375,
+        228.7979736328125
+      ],
+      "area": 151329.75036120415,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1352,
+      "image_id": 399,
+      "category_id": 0,
+      "bbox": [
+        910.6779661016949,
+        1710.5084745762713,
+        1006.7796610169491,
+        345.7627118644066
+      ],
+      "area": 348106.8658431483,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1353,
+      "image_id": 399,
+      "category_id": 0,
+      "bbox": [
+        1922.542372881356,
+        1683.3898305084747,
+        954.2372881355934,
+        361.0169491525421
+      ],
+      "area": 344495.8345303072,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1354,
+      "image_id": 399,
+      "category_id": 0,
+      "bbox": [
+        2885.2542372881358,
+        1685.084745762712,
+        928.8135593220336,
+        349.1525423728815
+      ],
+      "area": 324297.61562769325,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1355,
+      "image_id": 399,
+      "category_id": 0,
+      "bbox": [
+        1119.1525423728813,
+        1352.8813559322034,
+        781.35593220339,
+        272.8813559322034
+      ],
+      "area": 213217.46624533186,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1356,
+      "image_id": 399,
+      "category_id": 0,
+      "bbox": [
+        1905.593220338983,
+        1356.2711864406779,
+        757.6271186440681,
+        279.66101694915255
+      ],
+      "area": 211878.77046825635,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1357,
+      "image_id": 399,
+      "category_id": 0,
+      "bbox": [
+        2666.6101694915255,
+        1357.9661016949153,
+        752.5423728813557,
+        269.4915254237287
+      ],
+      "area": 202803.792013789,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1365,
+      "image_id": 403,
+      "category_id": 0,
+      "bbox": [
+        33.9393985889576,
+        76.91111472800935,
+        1589.0606014110424,
+        705.1259223090277
+      ],
+      "area": 1120487.8221748995,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1394,
+      "image_id": 412,
+      "category_id": 0,
+      "bbox": [
+        198.11111111111111,
+        458.88888888888886,
+        1425.888888888889,
+        724.3200774016202
+      ],
+      "area": 1032799.9503661103,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 1399,
+      "image_id": 416,
+      "category_id": 0,
+      "bbox": [
+        417.909090909091,
+        152.72727272727272,
+        1186.3636363636363,
+        533.6363636363636
+      ],
+      "area": 633086.776859504,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1402,
+      "image_id": 419,
+      "category_id": 0,
+      "bbox": [
+        227.26315789473693,
+        284.7368421052631,
+        1395.7368421052631,
+        643.1578947368421
+      ],
+      "area": 897679.1689750692,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": -1,
+      "disease_label": 0,
+      "original_label": "tray|age=one|yellow=unk|disease=yes"
+    },
+    {
+      "id": 1421,
+      "image_id": 426,
+      "category_id": 0,
+      "bbox": [
+        160.9174311926606,
+        349.6330275229357,
+        826.6055045871558,
+        245.87155963302752
+      ],
+      "area": 203238.78461408967,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 1422,
+      "image_id": 426,
+      "category_id": 0,
+      "bbox": [
+        992.1100917431194,
+        360.64220183486236,
+        835.7798165137611,
+        218.34862385321094
+      ],
+      "area": 182491.3727800689,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 1423,
+      "image_id": 426,
+      "category_id": 0,
+      "bbox": [
+        300.52631578947376,
+        163.68421052631578,
+        677.8947368421053,
+        182.10526315789474
+      ],
+      "area": 123448.1994459834,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 0,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=one|yellow=no|disease=no"
+    },
+    {
+      "id": 1434,
+      "image_id": 429,
+      "category_id": 0,
+      "bbox": [
+        2733.904052734375,
+        1812.331787109375,
+        734.62353515625,
+        322.48046875
+      ],
+      "area": 236901.7419719696,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1435,
+      "image_id": 429,
+      "category_id": 0,
+      "bbox": [
+        346.9626159667969,
+        1729.082275390625,
+        777.2060852050781,
+        314.4239501953125
+      ],
+      "area": 244372.2074260153,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1436,
+      "image_id": 429,
+      "category_id": 0,
+      "bbox": [
+        2697.73095703125,
+        1399.4210205078125,
+        732.397705078125,
+        253.962158203125
+      ],
+      "area": 186001.30184465647,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    },
+    {
+      "id": 1437,
+      "image_id": 429,
+      "category_id": 0,
+      "bbox": [
+        439.54205322265625,
+        1307.13037109375,
+        745.5249633789062,
+        252.103271484375
+      ],
+      "area": 187949.28224109113,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1438,
+      "image_id": 429,
+      "category_id": 0,
+      "bbox": [
+        1191.9429931640625,
+        1328.1021728515625,
+        737.120361328125,
+        249.67822265625
+      ],
+      "area": 184042.90170013905,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1439,
+      "image_id": 429,
+      "category_id": 0,
+      "bbox": [
+        1959.6111541098735,
+        1810.9176778590422,
+        771.4493408203125,
+        272.408203125
+      ],
+      "area": 210149.12873482704,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": -1,
+      "original_label": "tray|age=two|yellow=no|disease=unk"
+    },
+    {
+      "id": 1440,
+      "image_id": 429,
+      "category_id": 0,
+      "bbox": [
+        1136.52587890625,
+        1771.188720703125,
+        780.52099609375,
+        294.170654296875
+      ],
+      "area": 229606.37211334705,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1441,
+      "image_id": 429,
+      "category_id": 0,
+      "bbox": [
+        739.5379028320312,
+        1140.3074951171875,
+        573.9922485351562,
+        161.066650390625
+      ],
+      "area": 92451.00882174075,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 0,
+      "original_label": "tray|age=two|yellow=no|disease=yes"
+    },
+    {
+      "id": 1442,
+      "image_id": 429,
+      "category_id": 0,
+      "bbox": [
+        2521.265625,
+        1203.26953125,
+        576.296630859375,
+        169.5457763671875
+      ],
+      "area": 97708.6596968472,
+      "iscrowd": 0,
+      "segmentation": [],
+      "age_label": 1,
+      "yellow_label": 1,
+      "disease_label": 1,
+      "original_label": "tray|age=two|yellow=no|disease=no"
+    }
+  ]
+}
